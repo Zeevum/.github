@@ -1,1 +1,1 @@
-## Zeevum it's a self-hosted, server-client app.
+## Zeevum it's a self-hosted, server and clients apps
